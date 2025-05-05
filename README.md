@@ -1,7 +1,22 @@
 ## Hi there 👋
 
 # 💫 About Me:
-currently working on part-time React js developer at rezintra <br>
+🚀 MERN Stack Web Developer | React.js & Node.js Specialist | UI/UX Enthusiast | Freelancer
+I’m a MERN stack web developer skilled in building dynamic, responsive web applications using React.js, Node.js, Express, and MongoDB. Passionate about UI/UX design, API integration, and delivering seamless user experiences. I’ve developed ecommerce platforms, SaaS tools, and custom web apps with a focus on clean code, performance optimization, and responsive design.
+
+🔧 Tech Stack:
+React.js • Next.js • Node.js • Express • MongoDB • Tailwind CSS • Git • REST APIs
+
+🎯 Services:
+
+Full-stack web development
+
+API setup & integration
+
+Responsive UI/UX design
+
+🌎 Open to:
+Freelance projects • Collaborations • Full-time roles
 
 
 ## 🌐 Socials:
